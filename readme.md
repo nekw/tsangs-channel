@@ -1,0 +1,1 @@
+Implemented a technical analysis tool to identify market trends and price fluctuations by plotting Tsang’s Channel lines based on price movements. Tsang’s Channel was developed by a well-known Professor, Dr Chan Yan Chong in Hong Kong
